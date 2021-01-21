@@ -14,3 +14,8 @@ if my_age > 20 and your_age < 15:
     print("We are old enough!")
 else:
     print("Not old enough!")
+
+logged = True
+
+if logged:
+    print("Welcome User")
