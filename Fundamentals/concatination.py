@@ -9,6 +9,7 @@ greeting = f"Hello, My name is {first_name} {last_name}. And I like to play guit
 print(greeting)
 print("Priyansh once said \"I will be a Billionare\"")
 print('Priyansh once said "I will be a Billionare"')
+print('Tarun once said "Ghantaa BC."')
 
 new = """
          __                              ___   __        .ama     ,
