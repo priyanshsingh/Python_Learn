@@ -1,8 +1,7 @@
-def table(num):
-    print("Table of " + num + " is:")
+def table(a):
+    print("Table of " + a + " is:")
     for i in range(1, 11):
-        print(num*i)
-        i = i+1
+        print(a*i)
 
 
 print("Enter a number to print its table = ")
