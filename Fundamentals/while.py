@@ -2,6 +2,8 @@
 
 num = 10
 
-while num < 100:
-    print("I am running!")
+while num <= 20:
     num += 1
+    if(num == 14):
+        continue
+    print(num)
